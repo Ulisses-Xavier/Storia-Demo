@@ -1,8 +1,7 @@
 # Storia
 
 Plataforma de leitura e publicação de webnovels desenvolvida em Flutter, com gerenciamento de conteúdo, integração com backend e foco em experiência do usuário.
-<img width="1920" height="1440" alt="491shots_so" src="https://github.com/user-attachments/assets/0e072683-b177-436e-bf97-04919df225d6" />
-
+<img width="1640" height="664" alt="Novo Projeto" src="https://github.com/user-attachments/assets/542d309a-6470-4880-a5d0-03388c088fc0" />
 ## 🔗 Demo
 
 Acesse a aplicação:
