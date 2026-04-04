@@ -21,11 +21,13 @@ O projeto foi desenvolvido com o objetivo de explorar arquitetura de aplicaçõe
 
 ## 🚀 Funcionalidades principais
 
-- Leitura de histórias com interface customizável  
-- Publicação e gerenciamento de conteúdo  
-- Dashboard web para administração  
-- Persistência de preferências do usuário  
-- Salvamento automático de alterações durante edição
+- Leitura de histórias com interface customizável (app mobile)
+- Persistência de preferências do usuário (app mobile)
+- <img width="1920" height="1440" alt="635shots_so" src="https://github.com/user-attachments/assets/2fb5fd45-40c5-49c9-ac89-a57fb04d839f" />
+- Publicação e gerenciamento de conteúdo (app web)
+- Dashboard web para administração (app web)
+- <img width="1920" height="1440" alt="491shots_so" src="https://github.com/user-attachments/assets/fdb704aa-353f-4724-8db6-00c45e5b2b1d" />
+- Agendamento de publicações (app web)
 
 ---
 
