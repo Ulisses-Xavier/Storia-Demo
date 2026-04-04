@@ -26,7 +26,7 @@ O projeto foi desenvolvido com o objetivo de explorar arquitetura de aplicaçõe
 - <img width="1920" height="1440" alt="635shots_so" src="https://github.com/user-attachments/assets/2fb5fd45-40c5-49c9-ac89-a57fb04d839f" />
 - Publicação e gerenciamento de conteúdo (app web)
 - Dashboard web para administração (app web)
-- <img width="1920" height="1440" alt="491shots_so" src="https://github.com/user-attachments/assets/fdb704aa-353f-4724-8db6-00c45e5b2b1d" />
+<img width="3000" height="1215" alt="Novo Projeto (1)" src="https://github.com/user-attachments/assets/fa7b73be-e326-468e-a02d-394b1ef56b43" />
 - Agendamento de publicações (app web)
 
 ---
