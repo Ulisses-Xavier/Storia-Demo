@@ -1,0 +1,67 @@
+name: storia
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cloud_firestore: ^6.0.0
+  flutter_riverpod: ^3.3.1
+  lucide_icons_flutter: ^3.0.9
+  firebase_auth: ^6.0.2
+  firebase_core: ^4.1.0
+  go_router: ^17.1.0
+  file_picker: ^10.3.3
+  firebase_storage: ^13.0.2
+  http: ^1.5.0
+  image: ^4.5.4
+  another_flushbar: ^1.12.32
+  uuid: ^4.5.1
+  cloud_functions: ^6.0.4
+  phosphor_flutter: ^2.1.0
+  shimmer_animation: ^2.2.2+1
+  cached_network_image: ^3.4.1
+  shared_preferences: ^2.5.4
+  google_sign_in: ^7.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/app_icon.png"
+  adaptive_icon_background: "#306BD1" # cor de fundo (Android)
+  adaptive_icon_foreground: "assets/icons/app_icon.png"
+  remove_alpha_ios: true
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins/Poppins-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins/Poppins-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Poppins/Poppins-SemiBold.ttf
+          weight: 400
+
+    - family: Lora
+      fonts:
+        - asset: assets/fonts/Lora/Lora-Regular.ttf
+
+  assets:
+    - assets/images/logo.png
+    - assets/images/google_logo.png
+    - assets/images/login_background.jpg
+    - assets/images/webnovel_banner.png
+    - assets/images/webtoon_banner.png
