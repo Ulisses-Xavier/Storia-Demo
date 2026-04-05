@@ -21,9 +21,13 @@ O projeto foi desenvolvido com o objetivo de explorar arquitetura de aplicaçõe
 
 ## 🚀 Funcionalidades principais
 
-- Leitura de histórias com interface customizável (app mobile)
-- Persistência de preferências do usuário (app mobile)
+### App Mobile (leitura)
+- Leitura de histórias com interface customizável
+- Persistência de preferências do usuário
+- Feed com carregamento dinâmico (infinite scroll) e sistema de filtros para descoberta de conteúdo
 - <img width="1920" height="1440" alt="635shots_so" src="https://github.com/user-attachments/assets/2fb5fd45-40c5-49c9-ac89-a57fb04d839f" />
+
+### App Web (dashboard)
 - Publicação e gerenciamento de conteúdo (app web)
 - Dashboard web para administração (app web)
 - Agendamento de publicações (app web)
