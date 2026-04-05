@@ -26,7 +26,7 @@ O projeto foi desenvolvido com o objetivo de explorar arquitetura de aplicaçõe
 - Persistência de preferências do usuário
 - Feed com carregamento dinâmico (infinite scroll) e sistema de filtros para descoberta de conteúdo
 - Pesquisa com carregamento dinâmico
-<img width="1920" height="1440" alt="635shots_so" src="https://github.com/user-attachments/assets/2fb5fd45-40c5-49c9-ac89-a57fb04d839f" />
+<img width="1640" height="664" alt="Mobile App" src="https://github.com/user-attachments/assets/6e811a23-b654-4c18-9c15-d9fa6866f9f4" />
 
 ### App Web (dashboard)
 - Publicação e gerenciamento de conteúdo
