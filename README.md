@@ -25,12 +25,12 @@ O projeto foi desenvolvido com o objetivo de explorar arquitetura de aplicaçõe
 - Leitura de histórias com interface customizável
 - Persistência de preferências do usuário
 - Feed com carregamento dinâmico (infinite scroll) e sistema de filtros para descoberta de conteúdo
-- <img width="1920" height="1440" alt="635shots_so" src="https://github.com/user-attachments/assets/2fb5fd45-40c5-49c9-ac89-a57fb04d839f" />
+- Pesquisa com carregamento dinâmico
+<img width="1920" height="1440" alt="635shots_so" src="https://github.com/user-attachments/assets/2fb5fd45-40c5-49c9-ac89-a57fb04d839f" />
 
 ### App Web (dashboard)
-- Publicação e gerenciamento de conteúdo (app web)
-- Dashboard web para administração (app web)
-- Agendamento de publicações (app web)
+- Publicação e gerenciamento de conteúdo
+- Agendamento de capítulos
 <img width="3000" height="1215" alt="Novo Projeto (1)" src="https://github.com/user-attachments/assets/fa7b73be-e326-468e-a02d-394b1ef56b43" />
 
 ---
@@ -56,7 +56,6 @@ Essa estrutura permite maior organização, manutenção facilitada e evolução
   - Authentication  
   - Storage
   - Functions
-- SharedPreferences
 
 ---
 
