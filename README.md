@@ -31,7 +31,7 @@ O projeto foi desenvolvido com o objetivo de explorar arquitetura de aplicaçõe
 ### App Web (dashboard)
 - Publicação e gerenciamento de conteúdo
 - Agendamento de capítulos
-<img width="3000" height="1215" alt="Novo Projeto (1)" src="https://github.com/user-attachments/assets/fa7b73be-e326-468e-a02d-394b1ef56b43" />
+<img alt="Novo Projeto (1)" src="https://github.com/user-attachments/assets/fa7b73be-e326-468e-a02d-394b1ef56b43" />
 
 ---
 
